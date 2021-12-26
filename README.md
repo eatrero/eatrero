@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning mobile architecture
 - 💞️ I’m looking to collaborate on iOS stuff
 - 📫 How to reach me: eatrero at gmail dot com
+- 🔗 or Visit [my site](https://atrero.dev)
 
 <!---
 eatrero/eatrero is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
